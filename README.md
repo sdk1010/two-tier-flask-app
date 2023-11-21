@@ -56,11 +56,8 @@ Create the messages table in your MySQL database:
 Use a MySQL client or tool (e.g., phpMyAdmin) to execute the following SQL commands:
 
 CREATE TABLE messages (
-
     id INT AUTO_INCREMENT PRIMARY KEY,
-    
     message TEXT
-    
 );
 
 ## Interact with the app:
