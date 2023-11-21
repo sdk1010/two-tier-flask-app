@@ -48,11 +48,13 @@ Visit http://localhost to see the frontend. You can submit new messages using th
 Visit http://localhost:5000/insert_sql to insert a message directly into the messages table via an SQL query.
 
 ## Cleaning Up
+
 To stop and remove the Docker containers, press Ctrl+C in the terminal where the containers are running, or use the following command:
 
 docker-compose down
 
-##To run this two-tier application using without docker-compose
+## To run this two-tier application using without docker-compose
+
 First create a docker image from Dockerfile
 docker build -t flaskapp .
 Now, make sure that you have created a network using following command
@@ -66,6 +68,7 @@ ii) Backend container
 docker run -d --name flaskapp -v mysql-data:/var/lib/mysql -v ./message.sql:/docker-entrypoint-initdb.d/message.sql --network=twotier -e MYSQL_HOST=mysql -e MYSQL_USER=root -e MYSQL_PASSWORD=admin -e MYSQL_DB=mydb -p 5000:5000 flaskapp:latest
 
 ## Notes
+
 Make sure to replace placeholders (e.g., your_username, your_password, your_database) with your actual MySQL configuration.
 
 This is a basic setup for demonstration purposes. In a production environment, you should follow best practices for security and performance.
