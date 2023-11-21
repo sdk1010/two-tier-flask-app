@@ -1,8 +1,10 @@
 # two-tier-flask-app
 
-https://github.com/sdk1010/two-tier-flask-app/issues/1#issue-2004817882
-https://github.com/sdk1010/two-tier-flask-app/issues/2#issue-2004818626
-https://github.com/sdk1010/two-tier-flask-app/issues/3#issue-2004819230
+![docker logo](https://github.com/sdk1010/two-tier-flask-app/assets/145788176/797a6ad4-4c26-496b-949d-9fac9d739080)
+
+![git logo](https://github.com/sdk1010/two-tier-flask-app/assets/145788176/8cd0a1d3-2fc8-4af2-8865-4c61fa758e17)
+
+![mysql logo](https://github.com/sdk1010/two-tier-flask-app/assets/145788176/ff3f0235-0685-4201-90db-4b52aaf88aed)
 
 Flask App with MySQL using Docker Setup.
 
