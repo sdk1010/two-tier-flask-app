@@ -1,23 +1,28 @@
 # two-tier-flask-app
-Flask App with MySQL Docker Setup
+
+Flask App with MySQL using Docker Setup.
 This is a simple Flask app that interacts with a MySQL database. The app allows users to submit messages, which are then stored in the database and displayed on the frontend.
 
-## Prerequisites
-Before you begin, make sure you have the following installed:
+## Prerequisites:
 
-## Docker
+Before you begin, make sure you have the following installed:
+Docker
 Git (optional, for cloning the repository)
 
-## Setup
+## Setup:
+
 Clone this repository (if you haven't already):
 
 git clone https://github.com/your-username/your-repo-name.git
-Navigate to the project directory:
+
+Then navigate to the project directory:
 
 cd your-repo-name
+
 Create a .env file in the project directory to store your MySQL environment variables:
 
 touch .env
+
 Open the .env file and add your MySQL configuration:
 
 MYSQL_HOST=mysql
@@ -25,10 +30,12 @@ MYSQL_USER=your_username
 MYSQL_PASSWORD=your_password
 MYSQL_DB=your_database
 
-## Usage
+## Usage:
+
 Start the containers using Docker Compose:
 
 docker-compose up --build
+
 Access the Flask app in your web browser:
 
 Frontend: http://localhost
