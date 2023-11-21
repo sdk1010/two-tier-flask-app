@@ -2,9 +2,7 @@
 
 
 ![png-clipart-computer-icons-pro-git-github-logo-text-logo-thumbnail](https://github.com/sdk1010/two-tier-flask-app/assets/145788176/21914f87-44be-4ea6-b5c2-b5c306fd7f2a)
-
 ![download](https://github.com/sdk1010/two-tier-flask-app/assets/145788176/88465f0a-d4d1-45aa-97dd-e57a680e4bad)
-
 ![logo-mysql-170x115](https://github.com/sdk1010/two-tier-flask-app/assets/145788176/e76b49bd-e987-4452-852f-fe847227883e)
 
 Flask App with MySQL using Docker Setup.
