@@ -1,5 +1,9 @@
 # two-tier-flask-app
 
+https://github.com/sdk1010/two-tier-flask-app/issues/1#issue-2004817882
+https://github.com/sdk1010/two-tier-flask-app/issues/2#issue-2004818626
+https://github.com/sdk1010/two-tier-flask-app/issues/3#issue-2004819230
+
 Flask App with MySQL using Docker Setup.
 
 This is a simple Flask app that interacts with a MySQL database.
