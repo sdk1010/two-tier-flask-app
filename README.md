@@ -4,7 +4,7 @@
 
 ![git logo](https://github.com/sdk1010/two-tier-flask-app/assets/145788176/8cd0a1d3-2fc8-4af2-8865-4c61fa758e17)
 
-![mysql logo](https://github.com/sdk1010/two-tier-flask-app/assets/145788176/ff3f0235-0685-4201-90db-4b52aaf88aed)
+![logo-mysql-170x115](https://github.com/sdk1010/two-tier-flask-app/assets/145788176/e76b49bd-e987-4452-852f-fe847227883e)
 
 Flask App with MySQL using Docker Setup.
 
